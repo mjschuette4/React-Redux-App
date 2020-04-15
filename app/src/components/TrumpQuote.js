@@ -10,7 +10,7 @@ const TrumpQuote = props => {
 
     return (
         <div>
-            <h1>Beautiful Quotes</h1>
+            <h1>Wonderful Jokes</h1>
             {props.isFetching && (<Loader 
                 type="Puff" 
                 color="#00BFFF" 
